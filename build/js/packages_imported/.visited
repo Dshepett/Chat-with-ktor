@@ -1,0 +1,26 @@
+{
+  "version": "9",
+  "items": {
+    "773cd84c7710d9f9ec9c3e9c191ae96e": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\1.4.20\\794bb2b1e118ee81494df17399e44d207071ee55\\kotlin-stdlib-js-1.4.20.jar",
+      "target": "kotlin\\1.4.20"
+    },
+    "1f55df496d37813275c8aed4c6130e95": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.4.20\\c6761d7805b5312302f2bbd78cda68c976ce0c70\\kotlin-stdlib-common-1.4.20.jar"
+    },
+    "18edfd9f7cfc66525c52228f0e4c7229": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\1.4.20\\2ddaf48b33431d5acd8849a6d810681331779e7a\\kotlin-test-js-runner-1.4.20.jar",
+      "target": "kotlin-test-js-runner\\1.4.20"
+    },
+    "96b1ba25bb82e7f5a2861b35c6384a0c": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\1.4.20\\c7598063c3da930d85e8dde7a42addb929e1d5ca\\kotlin-test-js-1.4.20.jar",
+      "target": "kotlin-test\\1.4.20"
+    },
+    "3ed64adc5d4731d0a16578265b5b3001": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-common\\1.4.20\\2191d43275c9a8558adea84729c1ca372a463e59\\kotlin-test-common-1.4.20.jar"
+    },
+    "6b1fcdaaf0c25cd8b291033ac07b1245": {
+      "src": "C:\\Users\\dshep\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-annotations-common\\1.4.20\\a82b48a34377ac287c138ea21e09b511ab21c374\\kotlin-test-annotations-common-1.4.20.jar"
+    }
+  }
+}

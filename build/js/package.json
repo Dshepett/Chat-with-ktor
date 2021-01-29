@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages\\client1-client"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "client1",
+  "version": "1.0-SNAPSHOT"
+}

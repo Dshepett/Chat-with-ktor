@@ -1,0 +1,15 @@
+{
+  "main": "kotlin/client1-client-test.js",
+  "devDependencies": {},
+  "dependencies": {
+    "client1-client": "1.0.0-SNAPSHOT",
+    "kotlin": "file:D:\\Коды\\chat-app-websockets-master\\chat-app-websockets-master\\client1\\build\\js\\packages_imported\\kotlin\\1.4.20",
+    "kotlin-test-js-runner": "file:D:\\Коды\\chat-app-websockets-master\\chat-app-websockets-master\\client1\\build\\js\\packages_imported\\kotlin-test-js-runner\\1.4.20",
+    "kotlin-test": "file:D:\\Коды\\chat-app-websockets-master\\chat-app-websockets-master\\client1\\build\\js\\packages_imported\\kotlin-test\\1.4.20"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "client1-client-test",
+  "version": "1.0.0-SNAPSHOT"
+}
